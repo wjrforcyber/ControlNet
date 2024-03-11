@@ -1,5 +1,7 @@
 
-# Note: I adjust a few lines to make the ControlNet working on CPU, it's not a very good idea and just for fun.
+# Note: 
+
+I adjust a few lines to make the ControlNet working on CPU, it's not a very good idea and just for fun.
 
 
 # News: A nightly version of ControlNet 1.1 is released!
